@@ -8,3 +8,7 @@ Maruti figures are FY26 company results converted from ₹ million to ₹ crore;
 Financial Services funding affects M&M group borrowings and operating cash flow. They are not industrial-only debt/cash flow measures. Nifty Auto is a price index, and its return window differs by a few days. This is educational material, not investment advice.
 
 **FY21 comparability note:** The FY21 PAT point is continuing-operations PAT after exceptional items as reported in the FY21 results release; FY22 onward uses reported consolidated PAT after non-controlling interests. The chart therefore has a disclosed basis break at FY21.
+
+
+## Investor chart controls and benchmark
+The annual financial chart lets readers select a fiscal-year range, switch among revenue, PAT and PAT margin, change between column and line views, and download the selected series as CSV. The price comparison rebases M&M adjusted calendar-year closes and Nifty Auto month-end closes to 100 at the selected start year. This is a price-only comparison: dividends are excluded, and the 2026 observations are dated 5 November for M&M and 9 November for Nifty Auto. Historical values are selected snapshots, not live market data. Nifty Auto month-end closes are from [Patearn's historical series](https://patearn.in/markets/index?den=Nifty+50&idx=Nifty+Auto&r=1260&tf=m&ty=line).
