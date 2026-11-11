@@ -86,7 +86,7 @@ The view is wrong if revenue keeps growing but segment PBIT margins deteriorate,
 
 **Disclaimer:** Educational research only; not personalised investment advice. Historical returns exclude dividends, and scenarios are illustrative.
 
-**Interactive data explorer:** [Open the M&M financial and market charts](https://Revanth015.github.io/mnm-equity-analysis/explorer.html).
+**Interactive dashboard:** [Open the M&M interactive dashboard](https://Revanth015.github.io/mnm-equity-analysis/dashboard.html).
 
 ## [verify] items and best sources
 
