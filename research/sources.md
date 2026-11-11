@@ -1,28 +1,27 @@
 # Source register
 
-Research cutoff: 10 November 2026. Financial values are ₹ crore unless noted. Dataset source IDs match the numbered source links in `index.html`.
+The blog links sources beside the relevant claims. All M&M financial figures in the article come from the user-supplied data pack, except segment PBIT and margins, which are sourced below.
 
-## Numbered website sources and dataset IDs
+## Mahindra & Mahindra
 
-01. M&M Integrated Annual Report FY25–26: audited statements, segment revenue, balance sheet, market positions, and cash flow. https://www.mahindra.com/annual-report-FY2026/
-02. M&M Q2 FY27 results, 5 Nov 2026: revenue, PAT, H1 results, and market update. https://www.mahindra.com/news-room/press-release/en/m-and-m-results-q2-F27
-03. M&M Integrated Annual Report FY24–25: FY25 comparisons and annual trends. https://www.mahindra.com/annual-report-FY2025/index.html
-04. Maruti Suzuki FY26 results: net sales ₹1,743,695m and profit ₹144,454m; converted to crore by dividing by 10. SMG amalgamation is noted. https://www.marutisuzuki.com/corporate/media/press-releases/2026/april/maruti-suzuki-announces-financial-results-for-fy2025-26
-05. Bajaj Auto FY26 consolidated P&L: revenue ₹62,905 cr; PAT after NCI. https://investors.bajajauto.com/ar26/consolidated-statement-of-profit-and-loss/
-06. Tata Motors Commercial Vehicles FY26 annual report: standalone successor results. https://cv.tatamotors.com/assets/cv/files/AnnualReportFY26.pdf
-07. ChartMine M&M adjusted share-price history and five-year return through 5 Nov 2026; dividends excluded. https://chartmine.ai/seasonality/mandm/
-08. IndexScreener Nifty Auto five-year price-index CAGR snapshot, 4 Nov 2026. https://indexscreener.in/indices/nifty-auto/returns
-09. Business Standard market quote: NSE close ₹3,290.60 and market capitalization ₹4,08,372 cr, 9 Nov 2026. https://www.business-standard.com/markets/mahindra-mahindra-ltd-share-price-365.html
-10. Patearn Nifty Auto month-end index history through 9 Nov 2026; used in the rebased comparison. https://patearn.in/markets/index?den=Nifty+50&idx=Nifty+Auto&r=1260&tf=m&ty=line
-11. Tata Motors Passenger Vehicles FY26 management discussion: consolidated revenue ₹3,35,582 cr and demerger context. https://www.indiainfoline.com/company/tata-motors-passenger-vehicles-ltd/management-discussions
+- FY26 results and segment revenue/PBIT/margins: [M&M FY26 results release](https://www.mahindra.com/news-room/press-release/en/m-and-m-results-q4-f26-and-fy26)
+- FY26 annual report, business mix, market positions and company context: [M&M Integrated Annual Report FY26](https://www.mahindra.com/annual-report-FY2026/)
+- FY26 risk discussion: [M&M annual report, risk management](https://www.mahindra.com/annual-report-FY2026/177/)
+- Q2 FY27 results (quarter ended 30 September 2026): [M&M Q2 FY27 release](https://www.mahindra.com/news-room/press-release/en/m-and-m-results-q2-F27)
+- Historical valuation context: [Trendlyne M&M buy/sell zone](https://trendlyne.com/tools/buy-sell-zone/807/M%26M/mahindra-mahindra-ltd/). Five-year average P/E is platform-reported and methodology-sensitive.
 
-## Historical annual trend sources
+## Peer valuation context
 
-- M&M Integrated Annual Report FY24: consolidated PAT ₹11,269 cr. https://www.mahindra.com/news-room/press-release/mm-results-q4-fy24-and-fy24
-- M&M FY23 results: consolidated PAT ₹10,282 cr. https://www.mahindra.com/news-room/press-release/mm-q4-and-fy23-results-announced
-- M&M FY22 results: consolidated PAT ₹6,577 cr. https://www.mahindra.com/news-room/press-release/en/mm-results-q4-and-full-year-fy22
-- FY21 results release: continuing-operations PAT basis after exceptional items and NCI, as noted in methodology.
+- [Maruti Suzuki Screener consolidated financials](https://www.screener.in/company/MARUTI/consolidated/)
+- [Bajaj Auto Screener financials](https://www.screener.in/company/BAJAJ-AUTO/)
+- Peer P/E snapshots are time-sensitive; refresh them on a common date before republishing. Tata Motors successor-company multiples require care after the 2025 demerger.
 
-## Data notes
+## Market and peer company data
 
-FY26 segment revenue: Auto ₹1,17,834 cr, Farm ₹42,568 cr, Services ₹43,698 cr, before eliminations. Group borrowings include Financial Services funding. Tata successor entities are reported separately after the 1 Oct 2025 demerger. The financial dataset preserves reported scopes and leaves Tata PV PAT blank because the peer disclosure is described as a reported loss and no numeric figure is used in the comparison.
+- NSE close and market capitalization snapshot: [Business Standard M&M quote](https://www.business-standard.com/markets/mahindra-mahindra-ltd-share-price-365.html)
+- M&M adjusted price history: [ChartMine](https://chartmine.ai/seasonality/mandm/)
+- Nifty Auto five-year price CAGR: [IndexScreener](https://indexscreener.in/indices/nifty-auto/returns)
+- Maruti FY26 results: [Maruti Suzuki release](https://www.marutisuzuki.com/corporate/media/press-releases/2026/april/maruti-suzuki-announces-financial-results-for-fy2025-26)
+- Bajaj Auto FY26 consolidated results: [Bajaj Auto annual report](https://investors.bajajauto.com/ar26/consolidated-statement-of-profit-and-loss/)
+- Tata Motors CV and PV revenue/PAT values and reporting scopes are supplied in the project data pack; check successor entity annual reports and NSE/BSE filings when updating.
+
